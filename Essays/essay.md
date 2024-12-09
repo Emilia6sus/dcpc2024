@@ -14,9 +14,9 @@ Of the 15 initiatives, 11 occur in Europe. Seven are regional initiatives, predo
 
 Policies typically target three main actors: public institutions, civil society organizations (CSOs), and the private sector. However, the emphasis varies between regional and national levels:
 
-| **Policy targets** |     |     |     |
-| --- |     |     |     | --- | --- | --- |
-| &nbsp; | Regional level | National level | General |
+ ***Table 1: Policy targets***
+| | Regional level | National level | General |
+| --- | --- | --- | --- |
 | Civil society organizations | 71% | 75% | 73% |
 | Public institutions | 86% | 38% | 60% |
 | Private sector | 71% | 63% | 67% |
@@ -28,9 +28,9 @@ Regional policies strongly emphasize public institutions (86%), reflecting their
 
 Funding mechanisms reveal differences in how regional and national policies support their initiatives:
 
-| **Policy funding** |     |     |     |
-| --- |     |     |     | --- | --- | --- |
-| &nbsp; | Regional level | National level | General |
+ ***Table 2: Policy funding***
+| | Regional level | National level | General |
+| ---  | --- | --- | --- |
 | Grants | 100% | 75% | 87% |
 | Prizes | 14% | 25% | 20% |
 | N=15. |     |     |     |
@@ -41,15 +41,15 @@ Regional policies rely almost exclusively on grants, indicating systematic suppo
 
 Seven policy goals are identified, with significant variation between regional and national levels:
 
-| **Policy goals** |     |     |     |
-| --- |     |     |     | --- | --- | --- |
-| &nbsp; | Regional level | National level | General |
+***Table 3: Policy goals***
+| | Regional level | National level | General |
+| ---   | --- | --- | --- |
 | Sovereignty and security of technologies for governments, organizations, and individuals | 43% | 25% | 33% |
 | Innovation and economic opportunities | 57% | 50% | 53% |
 | Reduction of costs and mutualization of resources | 43% | 75% | 60% |
 | Improved access to immaterial resources and better dissemination of knowledge and culture | 43% | 38% | 40% |
 | Competition and better level-playing field | 57% | 25% | 40% |
-| Enforcement of digital rights: fundamental freedoms, privacy, consumer rights or labor rights. | 43% | 50% | 47% |
+| Enforcement of digital rights: fundamental freedoms, privacy, consumer rights or labor rights | 43% | 50% | 47% |
 | Transparency & accountability, better policymaking | 0%  | 50% | 27% |
 | N=15. |     |     |     |
 
@@ -61,9 +61,9 @@ Conversely, competition and technological sovereignty are more significant at th
 
 Most policies use public funding (100%) and capacity-building measures (67%). Regional initiatives additionally emphasize promotion (86%) and partnerships (43%), whereas regulation and public procurement are nascent instruments, seen only in recent regional policies:
 
-| **Policy instruments** |     |     |     |
-| --- |     |     |     | --- | --- | --- |
-| &nbsp; | Regional level | National level | General |
+***Table 4: Policy instruments***
+| | Regional level | National level | General |
+| ---   | --- | --- | --- |
 | Regulation | 29% | 0%  | 13% |
 | Public funding | 100% | 100% | 100% |
 | Capacity building, technical and legal assistance | 86% | 50% | 67% |
@@ -78,17 +78,17 @@ Key Insight: Regulation is emerging as a critical instrument, with initiatives l
 
 Terminology varies significantly between regional and national levels. While Free Open-Source Software/Open-Source Software dominates (87%), regional policies incorporate broader concepts such as:
 
-| **Policy terminology** |     |     |     |
-| --- |     |     |     | --- | --- | --- |
-| &nbsp; | Regional level | National level | General |
-| Free Open Source Software / Open Source Software | 71% | 100% | 87% |
-| Open norms / Open standards / Open protocols | 86% | 13% | 47% |
-| Public Digital Infrastructure / Open infrastructure | 43% | 13% | 27% |
+***Table 5: Policy terminology***
+| | Regional level | National level | General |
+| ---  | --- | --- | --- |
+| Free Open Source Software/ Open Source Software | 71% | 100% | 87% |
+| Open norms/ Open standards/ Open protocols | 86% | 13% | 47% |
+| Public Digital Infrastructure/ Open infrastructure | 43% | 13% | 27% |
 | Open Data | 57% | 38% | 47% |
-| Open Access / Open Science | 14% | 13% | 13% |
+| Open Access/ Open Science | 14% | 13% | 13% |
 | Open Hardware | 29% | 13% | 20% |
 | Digital Commons | 29% | 38% | 33% |
-| Open Education/ Open Knowledge / Open Culture | 0%  | 13% | 7%  |
+| Open Education/ Open Knowledge/ Open Culture | 0%  | 13% | 7%  |
 | Other | 14% | 0%  | 7%  |
 | N=15. |     |     |     |
 
