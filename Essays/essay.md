@@ -1,6 +1,6 @@
 ---
 student_name: Emilia Seissus Ercilla
-topic: Synthesis: Mapping the Digital Commons Policy Landscape
+topic: Synthesis of Mapping the Digital Commons Policy Landscape
 ---
 
 This report is based on the dataset provided by the NGI Commons, “Mapping the Digital Commons Policy Landscape”. It analyzes 15 policy initiatives concerning open-source software and digital commons at national and regional (supranational) levels. These initiatives span from 2012 to 2024, with a steady but limited introduction of new policies (no more than two per year). Below is a synthesis of the findings, highlighting key aspects to have in mind for understanding today's space in the topic and promoting the articulation with other institutions.
