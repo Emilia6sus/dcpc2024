@@ -2,6 +2,7 @@
 student_name: Emilia Seissus Ercilla
 topic: Synthesis of Mapping the Digital Commons Policy Landscape
 ---
+**Report on the Digital Commons Policy Landscape**
 
 This report is based on the dataset provided by the NGI Commons, “Mapping the Digital Commons Policy Landscape”. It analyzes 15 policy initiatives concerning open-source software and digital commons at national and regional (supranational) levels. These initiatives span from 2012 to 2024, with a steady but limited introduction of new policies (no more than two per year). Below is a synthesis of the findings, highlighting key aspects to have in mind for understanding today's space in the topic and promoting the articulation with other institutions.
 
@@ -97,5 +98,5 @@ Key Insight: The use of Digital Commons as a term has grown since its first appe
 
 The dataset reveals critical dynamics shaping digital commons policies across national and regional levels, emphasizing the need for differentiated policy-making approaches. At the national level, policies predominantly focus on transparency, cost reduction, and targeted grants driven by providing public funding for open-source software. In contrast, regional initiatives exhibit a broader focus, addressing systemic goals such as technological sovereignty, competition, and regulation, with public institutions as their primary targets. A robust articulation strategy tailored to national and regional contexts is essential for fostering effective partnerships. This need poses a great challenge due to the limited emphasis on intergovernmental collaboration; only 33% of the institutions analyzed include partnerships with public authorities as a key instrument. To address this gap:
 
-- At the national level, the focus should be on sharing knowledge derived from the implementation experiences, enabling mutual learning across countries. Employing terminology centered on “free open-source software” can facilitate a shared understanding_._
+- At the national level, the focus should be on sharing knowledge derived from the implementation experiences, enabling mutual learning across countries. Employing terminology centered on “free open-source software” can facilitate a shared understanding.
 - At the regional level, the articulation should focus on generating the mechanism for economic support and capacity-building. Integrating terminologies such as “digital commons” appears to be an updated strategy emphasizing the generation of infrastructure and regulation.
